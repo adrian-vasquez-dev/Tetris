@@ -6,7 +6,7 @@ Recreation of the classic two dimensional arcade game.
 
 Download project folder and click on index.html file to start up game 
 
-See Tetris-Demo.mp4 file for game demo
+Open Demo folder for video demo and screenshots 
 
 #Prerequisites 
 
